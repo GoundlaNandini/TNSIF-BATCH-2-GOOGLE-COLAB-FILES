@@ -1,2 +1,0 @@
-# TNSIF-BATCH-2-GOOGLE-COLAB-FILES
-python classes 
